@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 ## 🌐 Live Demo
 
-https://portfolio-siva77.vercel.app/
+https://portfolio-rgie.vercel.app/
 
 ## 👨‍💻 About Me
 
